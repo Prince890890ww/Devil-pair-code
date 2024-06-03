@@ -57,31 +57,32 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*𝙈𝘼𝘾 𝙈𝘿 𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘾𝙃*
-*𝙈𝘼𝘾 𝙏𝙀𝘾𝙃*
-*𝙇𝙀𝙂𝙄𝙏 𝘽𝙊𝙏*
+*PAIRED SUCCESSFUL BY BELTAH TECH*
+*𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 𝘽𝙊𝙏*
 ____________________________________
 ╔════◇
+║*YOU HAVE COMPLETED THE FIRST STEP*
+║*COPY THE SESSION ID ABOVE AND PLACE IT*
+║*IN THE SESSION FORLDER TO DEPLOY YOUR BOT*
+╚════════════════════❒
 ║『 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍𝙎』
 
-║ ❒ 𝙈𝘼𝘾 𝙏𝙀𝘾𝙃: _https://wa.me/256705036288_
-
-║ ❒ 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃: _https://wa.me/message/74F2PC4JA4F3P1_
+║ ❒ 𝗕𝗘𝗟𝗧𝗔𝗛 𝙏𝙀𝘾𝙃: _https://t.me/beltah254_
 
 ╚════════════════════❒
 ╔═════◇
 ║ 『••• OWNER INFO •••』
-║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@ibrahimmdgpt_
+║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@Beltahtech2024_
 
 ║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/256705036288_
 
-║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/GoPZhE9zc6Y3ul0RnD4HXw_
+║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI_
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaWGyGVJZg48vgpHBa31_
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F_
 
 ║ 
 ╚════════════════════╝ 
- *𝙈𝘼𝘾 𝙈𝘿*
+ *𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗  ☉ 𝗕𝗘𝗟𝗧𝗔𝗛-𝗠𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗 ☉*
 ___________________________________
 
 Don't Forget To Give Star To My Repo`

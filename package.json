@@ -1,9 +1,9 @@
 {
   "name": "devil-pair-code",
   "version": "1.0.0",
-  "main": "src/index.js",   <-- Yeh sahi path hona chahiye
+  "main": "src/pair.js",   <-- Yeh sahi path hona chahiye
   "scripts": {
-    "start": "node src/index.js"  <-- Yeh bhi fix hona chahiye
+    "start": "node src/pair.js"  <-- Yeh bhi fix hona chahiye
   },
   "dependencies": {
     "express": "^4.18.2",
